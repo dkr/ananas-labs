@@ -132,6 +132,7 @@ include ( ../ananas.pri )
 
 TRANSLATIONS = \
     ../../translations/ananas-designer-en.ts \
+    ../../translations/ananas-designer-ua.ts \
     ../../translations/ananas-designer-ru.ts 
 
 unix {

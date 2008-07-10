@@ -10,6 +10,7 @@ HEADERS	+= ananasmainform.h
 
 TRANSLATIONS = \
     ../../translations/ananas-engine-en.ts \
+    ../../translations/ananas-engine-ua.ts \
     ../../translations/ananas-engine-ru.ts
 
 

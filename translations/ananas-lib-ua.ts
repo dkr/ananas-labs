@@ -1,21 +1,22 @@
 <!DOCTYPE TS><TS>
+<defaultcodec></defaultcodec>
 <context>
     <name>AExtensionFactoryPrivate</name>
     <message>
         <source>Warning: BinReloc failed to initialize (error code %1)
 </source>
-        <translation>Предупреждение: Ошибка инициализации BinReloc (код ошибки &apos;%1&apos;)</translation>
+        <translation>Попередження: Помилка ініціалізації BinReloc (код помилки &apos;%1&apos;)</translation>
     </message>
     <message>
         <source>Will fallback to hardcoded default path.
 </source>
-        <translation>Будет использован путь, заданный в коде в качестве пути по умолчанию.
+        <translation>Буде використаний шлях, заданий у коді в якості шляха за замовчуванням.
 </translation>
     </message>
     <message>
         <source>BinReloc path to library dir is &apos;%1&apos;
 </source>
-        <translation>BinReloc обнаружил каталог library на пути &apos;%1&apos;
+        <translation>BinReloc виявив каталог library на шляху &apos;%1&apos;
 </translation>
     </message>
 </context>
@@ -23,22 +24,22 @@
     <name>HelpCfgForm</name>
     <message>
         <source>Create busines shema</source>
-        <translation>Создание бизнес-схемы</translation>
+        <translation>Створення бізнес-схеми</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Make group, item, set item paramert and press Ok button. See http://ananas.lrn.ru/index.php?title=Manual:Disigner for details</source>
-        <translation>Создайте группу, элемент. Задайте параметры элемента, нажмите Ок. Смотрите описание на http://ananas.lrn.ru/index.php?title=Manual:Disigner</translation>
+        <translation>Створіть групу, елемент. Задайте параметри елементу, натисніть Так. Подивитися опис на http://ananas.lrn.ru/index.php?title=Manual:Disigner</translation>
     </message>
 </context>
 <context>
     <name>MessagesWindow</name>
     <message>
         <source>Messages window</source>
-        <translation>Окно сообщений</translation>
+        <translation>Вікно повідомлень</translation>
     </message>
 </context>
 <context>
@@ -169,7 +170,7 @@
     </message>
     <message>
         <source>In memory: 0</source>
-        <translation>В памяти: 0</translation>
+        <translation>В пам&apos;яті: 0</translation>
     </message>
     <message>
         <source>&lt;</source>
@@ -185,14 +186,14 @@
     </message>
     <message>
         <source>ERROR</source>
-        <translation>ОШИБКА</translation>
+        <translation>ПОМИЛКА</translation>
     </message>
 </context>
 <context>
     <name>PopupCalendar</name>
     <message>
         <source>Week: %1</source>
-        <translation>Неделя: %1</translation>
+        <translation>Тиждень: %1</translation>
     </message>
     <message>
         <source>Wed</source>
@@ -200,18 +201,18 @@
     </message>
     <message>
         <source>A-Calendar</source>
-        <translation>A-Календарь</translation>
+        <translation>A-Календар</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Error read configuration line:%d col:%s %s</source>
-        <translation type="obsolete">Ошибка чтения файла метаданных в строке:%d позиция:%s %s</translation>
+        <translation type="obsolete">Помилка читання файлу метаданих у стрічці:%d позиція:%s %s</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестный</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <source>Numberic</source>
@@ -243,27 +244,27 @@
     </message>
     <message>
         <source>Information Register</source>
-        <translation>Информационный регистр</translation>
+        <translation>Інформаційний реєстр</translation>
     </message>
     <message>
         <source>Accumuliation Register</source>
-        <translation>Накопительный регистр</translation>
+        <translation>Накопичувальний реєстр</translation>
     </message>
     <message>
         <source>Report</source>
-        <translation>Отчет</translation>
+        <translation>Звіт</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Документы</translation>
+        <translation>Документи</translation>
     </message>
     <message>
         <source>Element</source>
-        <translation>Элементы</translation>
+        <translation>Елементи</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Группа</translation>
+        <translation>Група</translation>
     </message>
     <message>
         <source>Header</source>
@@ -271,95 +272,95 @@
     </message>
     <message>
         <source>Boolean</source>
-        <translation>Логический</translation>
+        <translation>Логічний</translation>
     </message>
     <message>
         <source>aDatabase drop field(s) %1</source>
-        <translation>Удалены поля БД: %1</translation>
+        <translation>Видалені поля БД: %1</translation>
     </message>
     <message>
         <source>aDatabase add field(s) %1</source>
-        <translation>Добавлены поля БД: %1</translation>
+        <translation>Додані поля БД: %1</translation>
     </message>
     <message>
         <source>aDatabase update field(s) %1</source>
-        <translation>Обновлены поля БД: %1</translation>
+        <translation>Оновлені поля БД: %1</translation>
     </message>
     <message>
         <source>aDatabase query: %1</source>
-        <translation>Запрос к БД: %1</translation>
+        <translation>Запит до БД: %1</translation>
     </message>
     <message>
         <source>aDatabase text: %1</source>
-        <translation>Текст сообщения об ошибке при работе с БД: %1</translation>
+        <translation>Текст повідомленя про помилку при роботі з БД: %1</translation>
     </message>
     <message>
         <source>aDatabase database text: %1</source>
-        <translation>Текст сообщения об ошибке Сервера БД при работе с БД: %1</translation>
+        <translation>Текст повідомленя про помилку Серверу БД при роботі з БД: %1</translation>
     </message>
     <message>
         <source>aDatabase driver text: %1</source>
-        <translation>Текст сообщения об ошибке Драйвера при работе с БД: %1</translation>
+        <translation>Текст повідомленя про помилку Драйвера при роботі з БД: %1</translation>
     </message>
     <message>
         <source>aDataTable try set mdobject to null</source>
-        <translation>aDataTable Попытка установить значение mdobject  в null</translation>
+        <translation>aDataTable Спроба встановити значення mdobject у null</translation>
     </message>
     <message>
         <source>aDataTable get value of unknown field `%1&apos;</source>
-        <translation>aDataTable Попытка получения значения неизвестного поля `%1&apos;</translation>
+        <translation>aDataTable Спроба отримання значення невідомого поля `%1&apos;</translation>
     </message>
     <message>
         <source>aDataTable get document prefix to `%1&apos;</source>
-        <translation>aDataTable Установка префикса документа : `%1&apos;</translation>
+        <translation>aDataTable Встановлення префіксу документу: `%1&apos;</translation>
     </message>
     <message>
         <source>aService copy: source file %1 not exist</source>
-        <translation>aService copy: Исходный файл %1 не обнаружен</translation>
+        <translation>aService copy: Вихідний файл %1 не знайдений</translation>
     </message>
     <message>
         <source>aService copy: replace destination file %1</source>
-        <translation>aService copy: Замена целевого файла при копировании: %1</translation>
+        <translation>aService copy: Заміна цільового файлу при копіювані: %1</translation>
     </message>
     <message>
         <source>aService copy: source file %1 open for read error</source>
-        <translation>aService copy: Ошибка открытия исходного файла %1 для чтения при копировании</translation>
+        <translation>aService copy: Помилка відкриття вихідного файлу %1 для читання при копіювані</translation>
     </message>
     <message>
         <source>aService copy: destination file %1 open for write error</source>
-        <translation>aService copy: Ошибка открытия целевого файла %1 для записи</translation>
+        <translation>aService copy: Помилка відкриття цільового файлу %1 для запису</translation>
     </message>
     <message>
         <source>aService copy file %1 to %2 ok</source>
-        <translation>aService: Файл %1 успешно скопирован в файл %2</translation>
+        <translation>aService: Файл %1 успішно скопійований у файл %2</translation>
     </message>
     <message>
         <source>aTests file %1 not exists</source>
-        <translation>aTests: Файл %1 не существует</translation>
+        <translation>aTests: Файл %1 не існує</translation>
     </message>
     <message>
         <source>aTests file %1 not open for read</source>
-        <translation>aTests: Файл %1 невозможно открыть для чтения</translation>
+        <translation>aTests: Файл %1 неможливо відкрити для читання</translation>
     </message>
     <message>
         <source>Error read configuration line:%1 col:%2 %3</source>
-        <translation>Ошибка чтения конфигурации. Строка: %1, позиция: %2 %3</translation>
+        <translation>Помилка читання конфігурації. Строка: %1, позиція: %2 %3</translation>
     </message>
     <message>
         <source>aDataTable clear filter</source>
-        <translation>aDataTable: Очистка фильтра</translation>
+        <translation>aDataTable: Відчистка фільтру</translation>
     </message>
     <message>
         <source>aDataTable set filter %1=&apos;%2&apos;</source>
-        <translation>aDataTable: Установка фильтра %1=&apos;%2&apos;</translation>
+        <translation>aDataTable: Встановлення фільтру %1=&apos;%2&apos;</translation>
     </message>
     <message>
         <source>aDataTable set filter %1=&apos;%2&apos;, %3 not exist</source>
-        <translation>aDataTable: Установка фильтра %1=&apos;%2&apos;, %3 не существует</translation>
+        <translation>aDataTable: Встановлення фільтру %1=&apos;%2&apos;, %3 не існує</translation>
     </message>
     <message>
         <source>aDataTable QSqlCursor filter set to &apos;%1&apos;</source>
-        <translation>aDataTable QSqlCursor фильтр задан как &apos;%1&apos;</translation>
+        <translation>aDataTable QSqlCursor фільтр заданий як &apos;%1&apos;</translation>
     </message>
     <message>
         <source>aCfg::read(const QString &amp;fname) is running with fname = &apos;%1&apos;</source>
@@ -378,150 +379,150 @@
     </message>
     <message>
         <source>RecordDate</source>
-        <translation>Дата записи</translation>
+        <translation>Дата запису</translation>
     </message>
     <message>
         <source>Accumulation Register init</source>
-        <translation>Инициализация накопительного регистра</translation>
+        <translation>Ініціалізація накопичувального реєстра</translation>
     </message>
     <message>
         <source>Accumulation Register create main table</source>
-        <translation>Создание главной таблицы накопительного регистра</translation>
+        <translation>Створення головної таблиці накопичувального реєстра</translation>
     </message>
     <message>
         <source>Accumulation Register create saldo table</source>
-        <translation>Создание таблицы остатков накопительного регистра</translation>
+        <translation>Створення таблиці залишків накопичувального реєстра</translation>
     </message>
     <message>
         <source>Accumulation Register update</source>
-        <translation>Обновление накопительного регистра</translation>
+        <translation>Оновлення накопичувального реєстра</translation>
     </message>
     <message>
         <source>Accumulation register convert datetime from string %1</source>
-        <translation>Накопительный регистр: Конвертирование в тип ДатаВремя из строки %1</translation>
+        <translation>Накопичувальний реєстр: Конвертування у тип ДатаЧас із строки %1</translation>
     </message>
     <message>
         <source>Accumulation register not found table %1</source>
-        <translation>Накопительный регистр: Не найдена таблица %1</translation>
+        <translation>Накопичувальний реєстр: Не знайдена таблиця %1</translation>
     </message>
     <message>
         <source>Accumulation register set filter</source>
-        <translation>Накопительный регистр: Установка фильтра</translation>
+        <translation>Накопичувальний реєстр: Встановлення фільтру</translation>
     </message>
     <message>
         <source>Accumulation register not found main table</source>
-        <translation>Накопительный регистр: Не найдена главная таблица</translation>
+        <translation>Накопичувальний реєстр: Не знайдена головна таблиця</translation>
     </message>
 </context>
 <context>
     <name>aBackup</name>
     <message>
         <source>Can&apos;t create temporary directory</source>
-        <translation>Не могу создать временную директорию</translation>
+        <translation>Не можу створити тимчасову папку</translation>
     </message>
     <message>
         <source>Can&apos;t connect to database</source>
-        <translation>Не могу присоединиться к базе данных</translation>
+        <translation>Не можу приєднатися до бази даних</translation>
     </message>
     <message>
         <source>Can&apos;t copy .cfg file</source>
-        <translation>Не могу скопировать cfg файл</translation>
+        <translation>Не можу скопіювати cfg файл</translation>
     </message>
     <message>
         <source>Database import without errors</source>
-        <translation>Восстановление из резервной копии завершено без ошибок</translation>
+        <translation>Відновлення із резервної копії завершено без помилок</translation>
     </message>
     <message>
         <source>Can&apos;t create directory %s</source>
-        <translation>Не могу создать каталог %1</translation>
+        <translation>Не можу створити каталог %1</translation>
     </message>
     <message>
         <source>Invalid resource file</source>
-        <translation>Неправильный файл ресурса</translation>
+        <translation>Невірний файл ресурсу</translation>
     </message>
     <message>
         <source>Can&apos;t write resource file</source>
-        <translation>Не могу записать файл ресурса</translation>
+        <translation>Не можу записати файл ресурсу</translation>
     </message>
     <message>
         <source>Can&apos;t write file META-INF/manifest.xml</source>
-        <translation>Не могу записать файл META-INF/manifest.xml</translation>
+        <translation>Не можу записати файл META-INF/manifest.xml</translation>
     </message>
     <message>
         <source>Can&apos;t copy template file</source>
-        <translation>Не могу записать файл шаблона</translation>
+        <translation>Не можу записати файл шаблону</translation>
     </message>
     <message>
         <source>Data export done without errors</source>
-        <translation>Резервная копия создана успешно</translation>
+        <translation>Резервна копія створена успішно</translation>
     </message>
     <message>
         <source>Can&apos;t start zip</source>
-        <translation>Не могу запустить zip</translation>
+        <translation>Не можу запустити zip</translation>
     </message>
     <message>
         <source>Zip ended anormal</source>
-        <translation>Запаковка завершилась с ошибкой</translation>
+        <translation>Пакування завершилось помилкою</translation>
     </message>
     <message>
         <source>Zip ended with code %1</source>
-        <translation>Zip завершился с кодом %1</translation>
+        <translation>Zip завершився з кодом %1</translation>
     </message>
     <message>
         <source>Unable to start zip</source>
-        <translation>Не могу запустить zip</translation>
+        <translation>Не можу запустити zip</translation>
     </message>
     <message>
         <source>Zip ended with error</source>
-        <translation>Запаковка завершилась с ошибкой</translation>
+        <translation>Пакування завершилось з помилкою</translation>
     </message>
     <message>
         <source>Can&apos;t write content.xml</source>
-        <translation>Не могу записать файл content.xml</translation>
+        <translation>Не можу записати файл content.xml</translation>
     </message>
     <message>
         <source>aBackup create temporary directory %1</source>
-        <translation>aBackup: Создание временной папки %1 в файловой системе</translation>
+        <translation>aBackup: Створення тимчасової папки %1 у файловій системі</translation>
     </message>
     <message>
         <source>aBackup import data: unzip</source>
-        <translation>aBackup: Импорт данных: unzip</translation>
+        <translation>aBackup: Імпорт даних: unzip</translation>
     </message>
     <message>
         <source>aBackup unzip</source>
-        <translation>aBackup: Распаковка unzip</translation>
+        <translation>aBackup: Видобування unzip</translation>
     </message>
     <message>
         <source>aBackup filename = %1</source>
-        <translation>aBackup: Имя файла = %1</translation>
+        <translation>aBackup: Ім&apos;я файлу = %1</translation>
     </message>
     <message>
         <source>aBackup workdir=%1</source>
-        <translation>aBackup: Рабочая папка файловой системы =%1</translation>
+        <translation>aBackup: Робоча папка файлової системи =%1</translation>
     </message>
     <message>
         <source>aBackup copy unzipped business schema file</source>
-        <translation>aBackup: Копирование распакованного файла бизнес-схемы</translation>
+        <translation>aBackup: Копіювання видобутого файлу бізнес-схеми</translation>
     </message>
     <message>
         <source>aBackup copy business schema file</source>
-        <translation>aBackup: Копирование файла бизнес-схемы</translation>
+        <translation>aBackup: Копіювання файлу бізнес-схеми</translation>
     </message>
     <message>
         <source>aBackup import data ok</source>
-        <translation>aBackup: Успешно импортированы данные резервной копии</translation>
+        <translation>aBackup: Успішно імпортовані дані резервної копії</translation>
     </message>
     <message>
         <source>aBackup create temporary directory</source>
-        <translation>aBackup: Создание временной папки в файловой системе</translation>
+        <translation>aBackup: Створення тимчасової папки у файловій системі</translation>
     </message>
     <message>
         <source>aBackup invalid *.rc file</source>
-        <translation>aBackup: Ошибка в  *.rc файле</translation>
+        <translation>aBackup: Помилка у *.rc файлі</translation>
     </message>
     <message>
         <source>aBackup valid *.rc file</source>
-        <translation>aBackup: Нет ошибок в  *.rc файле</translation>
+        <translation>aBackup: Немає помилок в *.rc файлі</translation>
     </message>
     <message>
         <source>aBackup template %1 %2</source>
@@ -529,133 +530,133 @@
     </message>
     <message>
         <source>aBackup write %1 file</source>
-        <translation>aBackup: Запись файла %1</translation>
+        <translation>aBackup: Запис файлу %1</translation>
     </message>
     <message>
         <source>aBackup dump base error</source>
-        <translation>aBackup: Ошибка создания дампа БД</translation>
+        <translation>aBackup: Помилка створення дампу БД</translation>
     </message>
     <message>
         <source>aBackup bump base</source>
-        <translation>aBackup: Создание дампа БД</translation>
+        <translation>aBackup: Створення дампу БД</translation>
     </message>
     <message>
         <source>aBackup write manifest.xml</source>
-        <translation>aBackup: Запись файла manifest.xml</translation>
+        <translation>aBackup: Запис файлу manifest.xml</translation>
     </message>
     <message>
         <source>aBackup zip archive</source>
-        <translation>aBackup: zip архив</translation>
+        <translation>aBackup: zip архів</translation>
     </message>
     <message>
         <source>aBackup export data ok</source>
-        <translation>aBackup: Успешно выполнен экспорт данных</translation>
+        <translation>aBackup: Успішно виконаний експорт даних</translation>
     </message>
     <message>
         <source>aBackup start unzip</source>
-        <translation>aBackup: Запуск распаковки unzip</translation>
+        <translation>aBackup: Запуск видобування unzip</translation>
     </message>
     <message>
         <source>aBackup unzip dead</source>
-        <translation>aBackup: Ненормальное завершение распаковки zip </translation>
+        <translation>aBackup: Ненормальне завершення видобування zip </translation>
     </message>
     <message>
         <source>aBackup unzip normal</source>
-        <translation>aBackup: Нормальное завершение распаковки zip </translation>
+        <translation>aBackup: Нормальне завершення видобування zip </translation>
     </message>
     <message>
         <source>aBackup zip start error</source>
-        <translation>aBackup: Ошибка запуска zip </translation>
+        <translation>aBackup: Помилка запуску zip </translation>
     </message>
     <message>
         <source>aBackup zip dead</source>
-        <translation>aBackup: Ненормальное завершение упаковки zip </translation>
+        <translation>aBackup: Ненормальне завершення пакування zip </translation>
     </message>
     <message>
         <source>aBackup dump tables ok</source>
-        <translation>aBackup: Успешно создан дамп таблиц БД</translation>
+        <translation>aBackup: Успішно створений дамп таблиць БД</translation>
     </message>
     <message>
         <source>aBackup init rc file  %1</source>
-        <translation>aBackup: Файд инициализации (rc) %1</translation>
+        <translation>aBackup: Файл ініціалізації (rc) %1</translation>
     </message>
     <message>
         <source>aBackup write content.xml</source>
-        <translation>aBackup: Запись файла content.xml</translation>
+        <translation>aBackup: Запис файлу content.xml</translation>
     </message>
     <message>
         <source>aBackup dump base to xml compleet</source>
-        <translation>aBackup: Перенос дампа БД в xml файл завершен</translation>
+        <translation>aBackup: Перенос дампу БД в xml файл завершений</translation>
     </message>
     <message>
         <source>aBackup save xml %1</source>
-        <translation>aBackup: Запись xml файла %1</translation>
+        <translation>aBackup: Запис xml файлу %1</translation>
     </message>
     <message>
         <source>aBackup create manifest.xml</source>
-        <translation>aBackup: Создание файла manifest.xml</translation>
+        <translation>aBackup: Створення файлу manifest.xml</translation>
     </message>
     <message>
         <source>aBackup delete file %1</source>
-        <translation>aBackup: Удаление файла %1</translation>
+        <translation>aBackup: Видалення файлу %1</translation>
     </message>
     <message>
         <source>aBackup delete directory %1</source>
-        <translation>aBackup: Удаление папки файловой системы %1</translation>
+        <translation>aBackup: Видалення папки файлової системи %1</translation>
     </message>
     <message>
         <source>aBackup cleanup temporary files</source>
-        <translation>aBackup: Удаление временных файлов</translation>
+        <translation>aBackup: Видалення тимчасових файлів</translation>
     </message>
     <message>
         <source>aBackup template dir `%1&apos; not exists, try create</source>
-        <translation>aBackup: Папка `%1&apos; не существует, пробуем создать</translation>
+        <translation>aBackup: Папка `%1&apos; не існує, спроба створити</translation>
     </message>
     <message>
         <source>aBackup create template dir `%1&apos; fail</source>
-        <translation>aBackup: Не удалось создать временную папку `%1&apos;  в файловой системе</translation>
+        <translation>aBackup: Не вдалося створити тимчасову папку `%1&apos;  у файловій системі</translation>
     </message>
     <message>
         <source>aBackup create template dir `%1&apos;</source>
-        <translation>aBackup: Создание временной папки `%1&apos;  в файловой системе</translation>
+        <translation>aBackup: Створення тимчасової папки `%1&apos; у файловій системі</translation>
     </message>
     <message>
         <source>aBackup template dir `%1&apos; exists</source>
-        <translation>aBackup: Папка `%1&apos; в файловой системе уже существует</translation>
+        <translation>aBackup: Папка `%1&apos; у файловій системі вже існує</translation>
     </message>
 </context>
 <context>
     <name>aCManifest</name>
     <message>
         <source>aCManifest save xml %1</source>
-        <translation>aCManifest: Запись xml файла %1</translation>
+        <translation>aCManifest: Запис xml файлу %1</translation>
     </message>
     <message>
         <source>aCManifest read file `%1&apos;</source>
-        <translation>aCManifest: Чтение файла `%1</translation>
+        <translation>aCManifest: Читання файлу `%1</translation>
     </message>
     <message>
         <source>aCManifest read line: %1 column: %2</source>
-        <translation>aCManifest: Чтение строки: %1 позиции: %2</translation>
+        <translation>aCManifest: Читання стрічки: %1 позиції: %2</translation>
     </message>
     <message>
         <source>aCManifest invalid manifest</source>
-        <translation>aCManifest: Ошибки в manifest файле</translation>
+        <translation>aCManifest: Помилки у manifest-файлі</translation>
     </message>
 </context>
 <context>
     <name>aCatGroup</name>
     <message>
         <source>aCatGroup new group</source>
-        <translation>aCatGroup: Новая группа</translation>
+        <translation>aCatGroup: Нова група</translation>
     </message>
     <message>
         <source>aCatGroup new group ok</source>
-        <translation>aCatGroup: Новая группа успешно создана</translation>
+        <translation>aCatGroup: Нова група успішно створена</translation>
     </message>
     <message>
         <source>aCatGroup new group error %1</source>
-        <translation>aCatGroup: Ошибка при создании новой группы %1 </translation>
+        <translation>aCatGroup: Помилка при створені нової групи %1 </translation>
     </message>
     <message>
         <source>%1 %2: aCatGroup init error %3</source>
@@ -666,78 +667,78 @@
     <name>aCatalogue</name>
     <message>
         <source>aCatalogue delete ido=%1</source>
-        <translation>aCatalogue: Удаление ido=%1</translation>
+        <translation>aCatalogue: Видалення ido=%1</translation>
     </message>
     <message>
         <source>aCatalogue update</source>
-        <translation>aCatalogue: Обновление</translation>
+        <translation>aCatalogue: Оновлення</translation>
     </message>
     <message>
         <source>aCatalogue update groups error %1</source>
-        <translation>aCatalogue: Ошибка обновления групп: %1 </translation>
+        <translation>aCatalogue: Помилка оновлення груп: %1 </translation>
     </message>
     <message>
         <source>aCatalogue update groups</source>
-        <translation>aCatalogue: Обновление групп</translation>
+        <translation>aCatalogue: Оновлення груп</translation>
     </message>
     <message>
         <source>aCatalogue update elements error %1</source>
-        <translation>aCatalogue: Ошибка обновления элементов: %1</translation>
+        <translation>aCatalogue: Помилка оновлення елементів: %1</translation>
     </message>
     <message>
         <source>aCatalogue select group id=%1</source>
-        <translation>aCatalogue: Выбор группы с идентификатором id=%1</translation>
+        <translation>aCatalogue: Вибір групи з ідентифікатором id=%1</translation>
     </message>
     <message>
         <source>aCatalogue  new group with id=%1</source>
-        <translation>aCatalogue: Новая группа с идентификатором id=%1</translation>
+        <translation>aCatalogue: Нова група з ідентифікатором id=%1</translation>
     </message>
     <message>
         <source>aCatalogue delete element with id=%1</source>
-        <translation>aCatalogue: Удаление элемента с идентификатором id=%1</translation>
+        <translation>aCatalogue: Видалення елементу з ідентифікатором id=%1</translation>
     </message>
     <message>
         <source>aCatalogue delete group with id=%1</source>
-        <translation>aCatalogue: Удаление группы с идентификатором id=%1</translation>
+        <translation>aCatalogue: Видалення групи з ідентифікатором id=%1</translation>
     </message>
     <message>
         <source>aCatalogue delete without selection</source>
-        <translation>aCatalogue: Удаление без выбора</translation>
+        <translation>aCatalogue: Видалення без вибору</translation>
     </message>
     <message>
         <source>aCatalogue update group</source>
-        <translation>aCatalogue: Обновление группы</translation>
+        <translation>aCatalogue: Оновлення групи</translation>
     </message>
 </context>
 <context>
     <name>aCfg</name>
     <message>
         <source>Bad configuration</source>
-        <translation type="obsolete">Ошибка в файле бизнес-схемы</translation>
+        <translation type="obsolete">Помилка у файлі бізнес-схеми</translation>
     </message>
     <message>
         <source>aCfg swap: first element is null</source>
-        <translation>aCfg swap: Первый элемент равен null</translation>
+        <translation>aCfg swap: Перший елемент дорівнює null</translation>
     </message>
     <message>
         <source>aCfg swap: second element is null</source>
-        <translation>aCfg swap: Второй элемент равен null</translation>
+        <translation>aCfg swap: Другий елемент дорівнює null</translation>
     </message>
     <message>
         <source>aCfg swap element himself</source>
-        <translation>aCfg: Замена элемента самим собой</translation>
+        <translation>aCfg: Заміна елементу самим собою</translation>
     </message>
     <message>
         <source>aCfg swap: first parent null</source>
-        <translation>aCfg swap: Первый родитель равен null</translation>
+        <translation>aCfg swap: Перше джерело дорівнює null</translation>
     </message>
     <message>
         <source>aCfg swap: second parent null</source>
-        <translation>aCfg swap: Второй родитель равен null</translation>
+        <translation>aCfg swap: Друге джерело дорівнює null</translation>
     </message>
     <message>
         <source>aCfg swap elements with differernt parents</source>
-        <translation>aCfg: Обмен элементов, имеющих разных родителей</translation>
+        <translation>aCfg: Обмін елементів, маючих різні джерела</translation>
     </message>
     <message>
         <source>Document</source>
@@ -749,19 +750,19 @@
     </message>
     <message>
         <source>DocJournal</source>
-        <translation>Журнал документов</translation>
+        <translation>Журнал документів</translation>
     </message>
     <message>
         <source>Report</source>
-        <translation>Отчет</translation>
+        <translation>Звіт</translation>
     </message>
     <message>
         <source>InfoRegister</source>
-        <translation>Информационный<byte value="x9"/> регистр</translation>
+        <translation>Інформаційний<byte value="x9"/> реєстр</translation>
     </message>
     <message>
         <source>AccumulationRegister</source>
-        <translation>Накопительный регистр</translation>
+        <translation>Накопичувальний реєстр</translation>
     </message>
     <message>
         <source>Form</source>
@@ -769,35 +770,35 @@
     </message>
     <message>
         <source>aCfg saveOneObject: context save to file `%1&apos;</source>
-        <translation>aCfg saveOneObject: Запись содержимого в файл `%1&apos;</translation>
+        <translation>aCfg saveOneObject: Запис вмісту у файл `%1&apos;</translation>
     </message>
     <message>
         <source>aCfg saveOneObject: context is null</source>
-        <translation>aCfg saveOneObject: Содержимое равно null</translation>
+        <translation>aCfg saveOneObject: Вміст дорівнює null</translation>
     </message>
     <message>
         <source>aCfg loadOneObject: invalid cfg file `%1&apos;</source>
-        <translation>aCfg loadOneObject: Ошибка в cfg файле `%1&apos;</translation>
+        <translation>aCfg loadOneObject: Помилка в cfg файлі `%1&apos;</translation>
     </message>
     <message>
         <source>aCfg loadOneObject: invalid file name or not permission to file `%1&apos;</source>
-        <translation>aCfg loadOneObject: Ошибка в имени файла, либо недостаточно прав для доступа к файлу `%1&apos;</translation>
+        <translation>aCfg loadOneObject: Помилка в назві файлу, або недостатньо прав для доступу до файлу `%1&apos;</translation>
     </message>
     <message>
         <source>aLog setup new id for %1</source>
-        <translation>aLog setup: Новый идентификатор id для %1</translation>
+        <translation>aLog setup: Новий ідентифікатор id для %1</translation>
     </message>
     <message>
         <source>aLog next id is %1</source>
-        <translation>aLog: Следующий идентификатор равен %1</translation>
+        <translation>aLog: Слідуючий ідентифікатор дорівнює %1</translation>
     </message>
     <message>
         <source>aCfg::find(const QString &amp;name) running</source>
-        <translation type="obsolete">Вызван метод aCfg::find(const QString &amp;name)</translation>
+        <translation type="obsolete">Викликаний метод aCfg::find(const QString &amp;name)</translation>
     </message>
     <message>
         <source>aCfg::find(const QString &amp;name) choose type for %1</source>
-        <translation>aCfg::find(const QString &amp;name) выбор типа для &apos;%1&apos;</translation>
+        <translation>aCfg::find(const QString &amp;name) вибір типу для &apos;%1&apos;</translation>
     </message>
     <message>
         <source>aCfg::find(const QString &amp;name) Catalogue type</source>
@@ -805,7 +806,7 @@
     </message>
     <message>
         <source>aCfg::find(const QString &amp;name) exit</source>
-        <translation>aCfg::find(const QString &amp;name) выход</translation>
+        <translation>aCfg::find(const QString &amp;name) вихід</translation>
     </message>
     <message>
         <source>Bad metadata xml</source>
@@ -848,31 +849,31 @@
     <name>aContainer</name>
     <message>
         <source>aContainer unzip</source>
-        <translation>aContainer: Распаковка unzip</translation>
+        <translation>aContainer: Видобування unzip</translation>
     </message>
     <message>
         <source>Can&apos;t create temporary directory</source>
-        <translation>Не могу создать временную папку в файловой системе</translation>
+        <translation>Не можу створити тимчасову папку у файловій системі</translation>
     </message>
     <message>
         <source>aContainer create temporary directory %1</source>
-        <translation>aContainer: Не могу создать временную папку в файловой системе %1</translation>
+        <translation>aContainer: Не можу створити тимчасову папку у файловій системі %1</translation>
     </message>
     <message>
         <source>No manifest found!</source>
-        <translation>Не найден файл manifest!</translation>
+        <translation>Не знайдений файл manifest!</translation>
     </message>
     <message>
         <source>aContainer error copy file</source>
-        <translation>aContainer: Ошибка копирования файла</translation>
+        <translation>aContainer: Помилка копіювання файлу</translation>
     </message>
     <message>
         <source>aContainer manifest is null</source>
-        <translation>aContainer: Файл manifest равен null</translation>
+        <translation>aContainer: Файл manifest дорівнює null</translation>
     </message>
     <message>
         <source>Can&apos;t start unzip</source>
-        <translation>Не могу запустить unzip</translation>
+        <translation>Не можу запустити unzip</translation>
     </message>
     <message>
         <source>aContainer start unzip</source>
@@ -880,47 +881,47 @@
     </message>
     <message>
         <source>Unzip ended anormal</source>
-        <translation>Неудачное завершение распаковки unzip </translation>
+        <translation>Невдале завершення видобування unzip </translation>
     </message>
     <message>
         <source>aContainer unzip dead</source>
-        <translation>aContainer: Ненормальное завершение распаковки unzip </translation>
+        <translation>aContainer: Ненормальне завершення видобування unzip </translation>
     </message>
     <message>
         <source>aContainer unzip normal</source>
-        <translation>aContainer: Нормальное завершение распаковки unzip </translation>
+        <translation>aContainer: Нормальне завершення видобування unzip </translation>
     </message>
     <message>
         <source>Unzip ended with code %1</source>
-        <translation>Unzip вернул код %1</translation>
+        <translation>Unzip повернув код %1</translation>
     </message>
     <message>
         <source>Unable to start zip</source>
-        <translation>Не могу запустить zip</translation>
+        <translation>Не можу запустити zip</translation>
     </message>
     <message>
         <source>aContainer zip start error</source>
-        <translation>aContainer: Ошибка запуска zip</translation>
+        <translation>aContainer: Помилка запуску zip</translation>
     </message>
     <message>
         <source>Zip ended with error</source>
-        <translation>Запаковка завершилась с ошибкой</translation>
+        <translation>Пакування завершилось з помилкою</translation>
     </message>
     <message>
         <source>aContainer zip dead</source>
-        <translation>aContainer: Ненормальное завершение запаковки zip </translation>
+        <translation>aContainer: Ненормальне завершення пакування zip </translation>
     </message>
     <message>
         <source>Zip ended with code %1</source>
-        <translation>Zip завершился с кодом %1</translation>
+        <translation>Zip завершився з кодом %1</translation>
     </message>
     <message>
         <source>aContainer delete file %1</source>
-        <translation>aContainer: Удаление файла %1</translation>
+        <translation>aContainer: Видалення файлу %1</translation>
     </message>
     <message>
         <source>aContainer delete directory %1</source>
-        <translation>aContainer: Удаление папки %1 файловой системы</translation>
+        <translation>aContainer: Видалення папки %1 файлової системи</translation>
     </message>
     <message>
         <source>aContainer save successefully to %1</source>
@@ -936,371 +937,371 @@
     <message>
         <source>Can&apos;t open database connection
 </source>
-        <translation>Не могу установить соединение с сервером баз данных</translation>
+        <translation>Не можу встановити з&apos;єднання з сервером баз даних</translation>
     </message>
     <message>
         <source>Uniques table updated
 </source>
-        <translation>Обновлена таблица уникальных идентификаторов</translation>
+        <translation>Оновлена таблиця унікальних ідентифікаторів</translation>
     </message>
     <message>
         <source>Documents journal updated
 </source>
-        <translation>Обновлен журнал документов</translation>
+        <translation>Оновлений журнал документів</translation>
     </message>
     <message>
         <source>Users updated
 </source>
-        <translation>Обновлена информация о пользователях</translation>
+        <translation>Оновлена інформація о користувачах</translation>
     </message>
     <message>
         <source>Users roles updated
 </source>
-        <translation>Обновлена информация о ролях</translation>
+        <translation>Оновлена інформація о ролях</translation>
     </message>
     <message>
         <source>Roles updated
 </source>
-        <translation>Обновлены роли</translation>
+        <translation>Оновлені ролі</translation>
     </message>
     <message>
         <source>Rigths updated
 </source>
-        <translation>Обновлена информация о правах</translation>
+        <translation>Оновлена інформація о правах</translation>
     </message>
     <message>
         <source>Catalogue %s updated
 </source>
-        <translation>Каталог %s обновлен</translation>
+        <translation>Каталог %s оновлений</translation>
     </message>
     <message>
         <source>Document %s updated
 </source>
-        <translation>Документ %s обновлен</translation>
+        <translation>Документ %s оновлений</translation>
     </message>
     <message>
         <source>Information registers %s updated
 </source>
-        <translation>Информационный регистр %s обновлен</translation>
+        <translation>Інформаційний реєстр %s оновлений</translation>
     </message>
     <message>
         <source>Accumulation registers %s updated
 </source>
-        <translation>Накопительный регистр %s обновлен</translation>
+        <translation>Накопичувальний реєстр %s оновлений</translation>
     </message>
     <message>
         <source>Can&apos;t open database connection with ananas_system
 </source>
-        <translation type="obsolete">Не могу установить соединение с базой данных ananas_system</translation>
+        <translation type="obsolete">Не можу встановити з&apos;єднання з базою даних ananas_system</translation>
     </message>
     <message>
         <source>Catalogue %s dump
 </source>
-        <translation type="obsolete">Каталог %s данные\n</translation>
+        <translation type="obsolete">Каталог %s дані\n</translation>
     </message>
     <message>
         <source>aDatabase open connection to %1</source>
-        <translation>aDatabase: Открытие соединения с %1</translation>
+        <translation>aDatabase: Відкриття з&apos;єднання з %1</translation>
     </message>
     <message>
         <source>aDatabase drop database %1</source>
-        <translation>aDatabase: Удаление БД %1</translation>
+        <translation>aDatabase: Видалення БД %1</translation>
     </message>
     <message>
         <source>aDatabase generate new unique number for object type %1</source>
-        <translation>aDatabase: Создание нового уникального номера для объекта типа %1</translation>
+        <translation>aDatabase: Створення нового унікального номера для об&apos;єкту типу %1</translation>
     </message>
     <message>
         <source>aDatabase generate new unique number %1 for objecttype %2</source>
-        <translation>aDatabase: Создание нового уникального номера %1 для объекта типа %2</translation>
+        <translation>aDatabase: Створення нового унікального номеру %1 для об&apos;єкту типу %2</translation>
     </message>
     <message>
         <source>aDatabase get object type for unique id=%1</source>
-        <translation>aDatabase: Получение типа объекта по его уникальному идентификатору id=%1</translation>
+        <translation>aDatabase: Отримання типу об&apos;єкту за його унікальним ідентифікатором id=%1</translation>
     </message>
     <message>
         <source>aDatabase check indices for %1</source>
-        <translation>aDatabase: Проверка индексов для %1</translation>
+        <translation>aDatabase: Перевірка індексів для %1</translation>
     </message>
     <message>
         <source>aDatabase search index %1</source>
-        <translation>aDatabase: Поиск индекса %1</translation>
+        <translation>aDatabase: Пошук індексу %1</translation>
     </message>
     <message>
         <source>Catalogue %s processed
 </source>
-        <translation>Каталог %s обработан
+        <translation>Каталог %s оброблений
 </translation>
     </message>
     <message>
         <source>aDatabase catalogue %1 import</source>
-        <translation>aDatabase: Импорт каталога %1</translation>
+        <translation>aDatabase: Імпорт каталогу %1</translation>
     </message>
     <message>
         <source>aDatabase catalogue %1 export</source>
-        <translation>aDatabase: Экспорт каталога %1</translation>
+        <translation>aDatabase: Експорт каталогу %1</translation>
     </message>
     <message>
         <source>Document %s processed
 </source>
-        <translation>Документ %s обработан</translation>
+        <translation>Документ %s оброблений</translation>
     </message>
     <message>
         <source>aDatabase document %1 import</source>
-        <translation>aDatabase: Импорт Документа %1</translation>
+        <translation>aDatabase: Імпорт документу %1</translation>
     </message>
     <message>
         <source>aDatabase document %1 export</source>
-        <translation>aDatabase: Экспорт документа %1</translation>
+        <translation>aDatabase: Експорт документу %1</translation>
     </message>
     <message>
         <source>Information registers %s processed
 </source>
-        <translation>Информационный регистр %s обработан</translation>
+        <translation>Інформаційний реєстр %s оброблений</translation>
     </message>
     <message>
         <source>aDatabase information register %1 import</source>
-        <translation>aDatabase: Импорт информационного регистра %1</translation>
+        <translation>aDatabase: Імпорт інформаційного реєстру %1</translation>
     </message>
     <message>
         <source>aDatabase information register %1 export</source>
-        <translation>aDatabase: Экспорт информационного регистра %1</translation>
+        <translation>aDatabase: Експорт інформаційного реєстру %1</translation>
     </message>
     <message>
         <source>Accumulation registers %s processed
 </source>
-        <translation>Накопительный регистр %s обработан</translation>
+        <translation>Накопичувальний реєстр %s оброблений</translation>
     </message>
     <message>
         <source>aDatabase accumulation register %1 import</source>
-        <translation>aDatabase: Импорт накопительного регистра %1</translation>
+        <translation>aDatabase: Імпорт накопичувального реєстру %1</translation>
     </message>
     <message>
         <source>aDatabase accumulation register %1 export</source>
-        <translation>aDatabase: Экспорт накопительного регистра %1</translation>
+        <translation>aDatabase: Експорт накопичувального реєстру %1</translation>
     </message>
     <message>
         <source>aDatabase export table: invalid XML file</source>
-        <translation>aDatabase: Эеспорт таблицы БД: Ошибки в  XML файле</translation>
+        <translation>aDatabase: Експорт таблиці БД: Помилки у XML файлі</translation>
     </message>
     <message>
         <source>aDatabase import table: invalid XML file</source>
-        <translation>aDatabase: Импорт таблицы БД: Ошибки в XML файле</translation>
+        <translation>aDatabase: Імпорт таблиці БД: Помилки у XML файлі</translation>
     </message>
     <message>
         <source>aDatabase import table: table %1 not exists</source>
-        <translation>aDatabase: Импорт таблицы БД: Таблица %1 не существует</translation>
+        <translation>aDatabase: Імпорт таблиці БД: Таблиця %1 не існує</translation>
     </message>
     <message>
         <source>aDatabase prepared for open connection to %1</source>
-        <translation type="obsolete">aDatabase: Готов к открытию соединения с %1</translation>
+        <translation type="obsolete">aDatabase: Готов до відкриття з&apos;єднання з %1</translation>
     </message>
     <message>
         <source>aDatabase open connection failed, try create %1</source>
-        <translation>aDatabase: Ошибка открытия соединения, пытаюсь создать %1</translation>
+        <translation>aDatabase: Помилка відкриття з&apos;єднання, спроба створити %1</translation>
     </message>
     <message>
         <source>aDatabase system database is open</source>
-        <translation>aDatabase: Системная БД открыта</translation>
+        <translation>aDatabase: Системна БД відкриття</translation>
     </message>
     <message>
         <source>Can&apos;t create database
 </source>
-        <translation>Не могу создать БД</translation>
+        <translation>Не можу створити БД</translation>
     </message>
     <message>
         <source>aDatabase create database %1</source>
-        <translation>aDatabase: Создание БД %1</translation>
+        <translation>aDatabase: Створення БД %1</translation>
     </message>
     <message>
         <source>aDatabase open connection to %1 ok</source>
-        <translation>aDatabase: Успешное установление соединения с %1 </translation>
+        <translation>aDatabase: Успішне встановлення з&apos;єднання з %1 </translation>
     </message>
     <message>
         <source>aDatabase import table: get table %1</source>
-        <translation>aDatabase: Импорт таблицы БД: Таблица %1</translation>
+        <translation>aDatabase: Імпорт таблиці БД: Таблиця %1</translation>
     </message>
     <message>
         <source>aDatabase prepared for open connection to &apos;%1&apos;</source>
-        <translation>aDatabase Готов к открытию соединения с &apos;%1&apos;</translation>
+        <translation>aDatabase Готов до відкриття з&apos;єднання з &apos;%1&apos;</translation>
     </message>
     <message>
         <source>New accumulation registers %s updated
 </source>
-        <translation>Новый накопительный регистр &apos;%s&apos; обновлен</translation>
+        <translation>Новий накопичувальний реєстр &apos;%s&apos; оновлений</translation>
     </message>
     <message>
         <source>aDatabase::prepareDatabaseConnect - Can&apos;t use database driver &apos;%1&apos;</source>
-        <translation>aDatabase::prepareDatabaseConnect - Не удалось использовать драйвер баз данных &apos;%1&apos;</translation>
+        <translation>aDatabase::prepareDatabaseConnect - Не вдалося використати драйвер баз даних &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>aDocJournal</name>
     <message>
         <source>aDocJournal md object not exists</source>
-        <translation>aDocJournal: Объект метаданных не существует</translation>
+        <translation>aDocJournal: Об&apos;єкт метаданих не існує</translation>
     </message>
     <message>
         <source>aDocJournal columns not defined</source>
-        <translation>aDocJournal: Столбцы не определены</translation>
+        <translation>aDocJournal: Стовпці не визначені</translation>
     </message>
     <message>
         <source>aDocJournal column defined</source>
-        <translation>aDocJournal: Столбец определен</translation>
+        <translation>aDocJournal: Стовпець визначен</translation>
     </message>
     <message>
         <source>aDocJournal invalid column define</source>
-        <translation>aDocJournal: Неверное определение столбца</translation>
+        <translation>aDocJournal: Невірне визначення стовпця</translation>
     </message>
     <message>
         <source>aDocJournal delete document with idd=%1</source>
-        <translation>aDocJournal: Удаление документа с идентификатором idd=%1</translation>
+        <translation>aDocJournal: Видалення документу з ідентифікатором idd=%1</translation>
     </message>
     <message>
         <source>aDocJournal new document with idd=%1</source>
-        <translation>aDocJournal: Новый документ с идентификатором idd=%1</translation>
+        <translation>aDocJournal: Новий документ з ідентифікатором idd=%1</translation>
     </message>
     <message>
         <source>aDocJournal generated next number for %1 is %2</source>
-        <translation>aDocJournal: Создан новый номер %2 для %1</translation>
+        <translation>aDocJournal: Створений новий номер %2 для %1</translation>
     </message>
     <message>
         <source>aDocJournal document not found with idd=%1</source>
-        <translation>aDocJournal: Документ с идентификатором idd=%1 не найден</translation>
+        <translation>aDocJournal: Документ з ідентифікатором idd=%1 не знайдений</translation>
     </message>
     <message>
         <source>aDocJournal document not found with number=%1 and type=%2 </source>
-        <translation>aDocJournal: Документ с номером=%1 и типом=%2 не найден</translation>
+        <translation>aDocJournal: Документ з номером=%1 та типом=%2 не знайдений</translation>
     </message>
     <message>
         <source>aDocJournal select document with number=%1 and md name=%2</source>
-        <translation>aDocJournal: Выбор документа с номером=%1 и с заданным в метаданных именем=%2</translation>
+        <translation>aDocJournal: Вибір документу з номером=%1 та з визначеним у метаданих ім&apos;ям=%2</translation>
     </message>
 </context>
 <context>
     <name>aDocument</name>
     <message>
         <source>aDocument have no sysjournal</source>
-        <translation>aDocument: Нет системного журнала</translation>
+        <translation>aDocument: Немає системного журналу</translation>
     </message>
     <message>
         <source>aDocument new document</source>
-        <translation>aDocument: Новый документ</translation>
+        <translation>aDocument: Новий документ</translation>
     </message>
     <message>
         <source>aDocument select new table line number</source>
-        <translation>aDocument Выбор новой строки таблицы</translation>
+        <translation>aDocument: Вибір нової стрічки таблиці</translation>
     </message>
     <message>
         <source>aDocument new table line number=%1</source>
-        <translation>aDocument: Номер новой строки таблицы=%1</translation>
+        <translation>aDocument: Номер нової стрічки таблиці=%1</translation>
     </message>
     <message>
         <source>aDocument insert new table line</source>
-        <translation>aDocument: Вставка новой строки таблицы</translation>
+        <translation>aDocument: Вставка нової стрічки таблиці</translation>
     </message>
     <message>
         <source>aDocument delete from sysjournal</source>
-        <translation>aDocument: Удаление из системного журнала</translation>
+        <translation>aDocument: Видалення із системного журналу</translation>
     </message>
     <message>
         <source>aDocument delete from unicues</source>
-        <translation>aDocument: Удаление из индекса уникальных идентификаторов</translation>
+        <translation>aDocument: Видалення із індексу унікальних ідентифікаторів</translation>
     </message>
     <message>
         <source>aDocument delete table %1</source>
-        <translation>aDocument: Удаление табличной части %1</translation>
+        <translation>aDocument: Видалення табличної частини %1</translation>
     </message>
     <message>
         <source>aDocument delete table of conducted document</source>
-        <translation>aDocument: Удаление табличной части проведенного документа</translation>
+        <translation>aDocument: Видалення табличної частини проведеного документу</translation>
     </message>
     <message>
         <source>aDocument deleted table not exist</source>
-        <translation>aDocument: Нет табличных частей для удаления</translation>
+        <translation>aDocument: Немає табличних частин для видалення</translation>
     </message>
     <message>
         <source>aDocument deleted table not selected</source>
-        <translation>aDocument: Удаляемая таблица не существует</translation>
+        <translation>aDocument: Видаляєма таблиця не існує</translation>
     </message>
     <message>
         <source>aDocument delete table from info register</source>
-        <translation>aDocument: Удаление связанных с табличной частью записей из информационного регистра</translation>
+        <translation>aDocument: Видалення пов&apos;язаних з табличною частиною записів із інформаційного реєстра</translation>
     </message>
     <message>
         <source>aDocument delete table</source>
-        <translation>aDocument: Удаление табличной части документа</translation>
+        <translation>aDocument: Видалення табличної частини документу</translation>
     </message>
     <message>
         <source>aDocument not selected</source>
-        <translation>aDocument: Сначала выберите документ</translation>
+        <translation>aDocument: Спочатку оберіть документ</translation>
     </message>
     <message>
         <source>aDocument table name is empty</source>
-        <translation>aDocument: Пустое имя таблицы. Для удаления табличной части документа необходимо указать ее имя</translation>
+        <translation>aDocument: Пусте ім&apos;я таблиці. Для видалення табличної частини документу необхідно вказати ії ім&apos;я</translation>
     </message>
     <message>
         <source>aDocument update error=%1</source>
-        <translation>aDocument: Ошибка обновления документа=%1</translation>
+        <translation>aDocument: Помилка оновлення документу=%1</translation>
     </message>
     <message>
         <source>aDocument conducted table update</source>
-        <translation>aDocument: Невозможно обновить табличную часть проведенного документа</translation>
+        <translation>aDocument: Неможливо оновити табличну частину проведеного документу</translation>
     </message>
     <message>
         <source>aDocument conduct</source>
-        <translation>aDocument: Проведение документа</translation>
+        <translation>aDocument: Проведення документу</translation>
     </message>
     <message>
         <source>aDocument delete from accumulation register</source>
-        <translation>aDocument: Удаление из накопительного регистра</translation>
+        <translation>aDocument: Видалення із накопичувального реєстру</translation>
     </message>
     <message>
         <source>aDocument aObject::New() ended with error code = %1</source>
-        <translation>aDocument: aObject::New() вернул ошибку с кодом = %1</translation>
+        <translation>aDocument: aObject::New() повернув помилку з кодом = %1</translation>
     </message>
     <message>
         <source>aDocument metaobject is null=%1</source>
-        <translation>aDocument: Объект метаданных пуст =%1</translation>
+        <translation>aDocument: Об&apos;єкт метаданих пустий =%1</translation>
     </message>
     <message>
         <source>aDocument new type = %1</source>
-        <translation>aDocument: Тип нового документа = %1</translation>
+        <translation>aDocument: Тип нового документу = %1</translation>
     </message>
     <message>
         <source>aDocument New() error while added record in sysJournal =%1</source>
-        <translation>aDocument: New() ошибка при добавлении в системный журнал =%1</translation>
+        <translation>aDocument: New() помилка при додавані у системний журнал =%1</translation>
     </message>
     <message>
         <source>Deprecated method call. aDocument::Conduct(...)</source>
-        <translation>Вызов устаревшего метода  aDocument::Conduct(...)</translation>
+        <translation>Виклик застарілого методу  aDocument::Conduct(...)</translation>
     </message>
     <message>
         <source>Deprecated method call. aDocument::UnConduct()</source>
-        <translation>Вызов устаревшего метода  aDocument::UnConduct(...)</translation>
+        <translation>Виклик застарілого методу aDocument::UnConduct(...)</translation>
     </message>
     <message>
         <source>Deprecated method call. aDocument::IsConducted()</source>
-        <translation>Вызов устаревшего метода  aDocument::IsConduct(...)</translation>
+        <translation>Виклик застарілого методу aDocument::IsConduct(...)</translation>
     </message>
     <message>
         <source>aDocument::GetDocumentValue(...): Can&apos;t find aDocument</source>
-        <translation>aDocument::GetDocumentValue(...): Невозможно найти документ</translation>
+        <translation>aDocument::GetDocumentValue(...): Неможливо знайти документ</translation>
     </message>
 </context>
 <context>
     <name>aIRegister</name>
     <message>
         <source>aIRegister metaobject is null</source>
-        <translation>aIRegister: Объект метаданных =  null</translation>
+        <translation>aIRegister: Об&apos;єкт метаданих =  null</translation>
     </message>
     <message>
         <source>aIRegister deleted document have invalid idd</source>
-        <translation>aIRegister: Неверный идентификатор (idd) удаляемого документа</translation>
+        <translation>aIRegister: Невірний ідентифікатор (idd) видаляємого документу</translation>
     </message>
     <message>
         <source>aIRegister select period from %1 to %2</source>
-        <translation>aIRegister: Задание периода с %1 по %2</translation>
+        <translation>aIRegister: Завдання періоду з %1 по %2</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1312,7 @@
     </message>
     <message>
         <source>aMSOTemplate: can&apos;t read report template &apos;%1&apos;</source>
-        <translation>aMSOTemplate: can&apos;t read report template &apos;%1</translation>
+        <translation>aMSOTemplate: can&apos;t read report template &apos;%1&apos;</translation>
     </message>
     <message>
         <source>aMSOTemplate value for field %1 not setted</source>
@@ -1326,11 +1327,11 @@
     <name>aOOTemplate</name>
     <message>
         <source>aOOTemplate temporary directory is %1</source>
-        <translation>aOOTemplate: Временная папка файловой системы: %1</translation>
+        <translation>aOOTemplate: Тимчасова папка файлової системи: %1</translation>
     </message>
     <message>
         <source>aOOTemplate create temporary directory %1</source>
-        <translation>aOOTemplate: Создать временную папку файловой системы: %1</translation>
+        <translation>aOOTemplate: Створити тимчасову папку файлової системи: %1</translation>
     </message>
     <message>
         <source>aOOTemplate start unzip</source>
@@ -1338,27 +1339,27 @@
     </message>
     <message>
         <source>aOOTemplate unzip dead</source>
-        <translation>aOOTemplate: Ненормальное завершение распаковки unzip </translation>
+        <translation>aOOTemplate: Ненормальне завершеня видобування unzip </translation>
     </message>
     <message>
         <source>aOOTemplate unzip normal</source>
-        <translation>aOOTemplate: Нормальное завершение распаковки unzip </translation>
+        <translation>aOOTemplate: Нормальне завершення видобування unzip </translation>
     </message>
     <message>
         <source>aOOTemplate open</source>
-        <translation>aOOTemplate: Открываем</translation>
+        <translation>aOOTemplate: Відкриваємо</translation>
     </message>
     <message>
         <source>aOOTemplate value for field %1 not setted</source>
-        <translation>aOOTemplate: Значение поля %1 не задано</translation>
+        <translation>aOOTemplate: Значення поля %1 не задано</translation>
     </message>
     <message>
         <source>aOOTemplate save %1 open for write</source>
-        <translation>aOOTemplate: Ошибка записи %1</translation>
+        <translation>aOOTemplate: Помилка запису %1</translation>
     </message>
     <message>
         <source>aOOTemplate save working dir =%1</source>
-        <translation>aOOTemplate: Запись шаблона в рабочей папке %1</translation>
+        <translation>aOOTemplate: Запис шаблону у робочій папці %1</translation>
     </message>
     <message>
         <source>aOOTemplate start zip</source>
@@ -1366,11 +1367,11 @@
     </message>
     <message>
         <source>aOOTemplate zip dead</source>
-        <translation>aOOTemplate: Ненормальное завершение упаковки zip </translation>
+        <translation>aOOTemplate: Ненормальне завершення пакування zip </translation>
     </message>
     <message>
         <source>aOOTemplate zip normal to %1</source>
-        <translation>aOOTemplate: Упаковка zip успешно завершена: %1</translation>
+        <translation>aOOTemplate: Пакування zip успішно завершено: %1</translation>
     </message>
     <message>
         <source>aOOTemplate lineFeedRemove cant open %1 in read mode</source>
@@ -1386,48 +1387,48 @@
     <message>
         <source>Table `%s&apos; not found.
 </source>
-        <translation>Таблица `%s&apos; не найдена.</translation>
+        <translation>Таблиця `%s&apos; не знайдена.</translation>
     </message>
     <message>
         <source>Table name is empty.
 </source>
-        <translation type="obsolete">Пустое имя таблицы.</translation>
+        <translation type="obsolete">Пусте ім&apos;я таблиці.</translation>
     </message>
     <message>
         <source>aObject have no database!</source>
-        <translation>aObject: Нет базы данных!</translation>
+        <translation>aObject: Немає бази данних!</translation>
     </message>
     <message>
         <source>aObject md object not found</source>
-        <translation type="obsolete">aObject: Объект метаданных не найден</translation>
+        <translation type="obsolete">aObject: Об&apos;єкт метаданих не знайдений</translation>
     </message>
     <message>
         <source>aObject table with name %1 not found</source>
-        <translation>aObject: Не найдена таблица %1 </translation>
+        <translation>aObject: Не знайдена таблиця %1 </translation>
     </message>
     <message>
         <source>aObject have no system field %1</source>
-        <translation>aObject: Не найдено системное поле %1</translation>
+        <translation>aObject: Не знайдено системне поле %1</translation>
     </message>
     <message>
         <source>aObject update error. Driver message: %1</source>
-        <translation>aObject: Ошибка обновления. Сообщение драйвера: %1</translation>
+        <translation>aObject: Помилка оновлення. Повідомлення драйверу: %1</translation>
     </message>
     <message>
         <source>aObject decode doc number %1</source>
-        <translation>aObject: Декодирование номера документа %1</translation>
+        <translation>aObject: Декодування номеру документа %1</translation>
     </message>
     <message>
         <source>aObject decode doc number ok, pref=%1 num=%2</source>
-        <translation>aObject: Успешное декодирование номера документа, pref=%1 num=%2</translation>
+        <translation>aObject: Успішне декодування номеру документа, pref=%1 num=%2</translation>
     </message>
     <message>
         <source>aObject table update: no table found with name %1</source>
-        <translation>aObject: Обновление таблицы: Таблица с именем %1 не найдена</translation>
+        <translation>aObject: Оновлення таблиці: Таблиця з назвою %1 не знайдена</translation>
     </message>
     <message>
         <source>aObject display string context is null</source>
-        <translation>aObject: Содержимое строки для отображения равно null</translation>
+        <translation>aObject: Вміст стрічки для відображення дорівнює null</translation>
     </message>
     <message>
         <source>Metadata object &apos;%1&apos; not found</source>
@@ -1450,142 +1451,142 @@
     <name>aObjectList</name>
     <message>
         <source>aObjectList have no database!</source>
-        <translation>aObjectList: Нет базы данных!</translation>
+        <translation>aObjectList: Немає бази даних!</translation>
     </message>
     <message>
         <source>aObjectList md object not found</source>
-        <translation>aObjectList: Объект метаданных не найден</translation>
+        <translation>aObjectList: Об&apos;єкт метаданих не знайдений</translation>
     </message>
     <message>
         <source>aObjectList have no system field %1</source>
-        <translation>aObjectList: Не найдено системное поле %1</translation>
+        <translation>aObjectList: Не знайдено системне поле %1</translation>
     </message>
     <message>
         <source>aObjectList display string context is null</source>
-        <translation>aObjectList: Содержимое строки для отображения равно null</translation>
+        <translation>aObjectList: Вміст стрічки для відображення дорівнює null</translation>
     </message>
 </context>
 <context>
     <name>aReport</name>
     <message>
         <source>Choose a OpenOffice executable file</source>
-        <translation type="obsolete">Выберите исполняемый файл OpenOffice </translation>
+        <translation type="obsolete">Оберіть виконуємий файл OpenOffice </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Предупреждение</translation>
+        <translation>Попередження</translation>
     </message>
     <message>
         <source>Unable to start OpenOffice</source>
-        <translation type="obsolete">Невозможно запустить OpenOffice</translation>
+        <translation type="obsolete">Неможливо запустити OpenOffice</translation>
     </message>
     <message>
         <source>aReport OpenOfficeExecutable not found in registery</source>
-        <translation>aReport: Исполняемый файл OpenOffice в регистри не найден</translation>
+        <translation>aReport: Виконуємий файл OpenOffice у реєстрі не знайдений</translation>
     </message>
     <message>
         <source>aReport OpenOfficeExecutable found %1</source>
-        <translation>aReport: Исполняемый файл OpenOffice не найден: %1</translation>
+        <translation>aReport: Виконуємий файл OpenOffice не знайдений: %1</translation>
     </message>
     <message>
         <source>aReport OpenOfficeExecutable not found in ~/.ananas/configrc</source>
-        <translation>aReport: Исполняемый файл OpenOffice не найден в ~/.ananas/configrc</translation>
+        <translation>aReport: Виконуємий файл OpenOffice не знайдений у ~/.ananas/configrc</translation>
     </message>
     <message>
         <source>Unable to start OpenOffice (%1)</source>
-        <translation>Не могу запустит OpenOffice (%1)</translation>
+        <translation>Не можу запустити OpenOffice (%1)</translation>
     </message>
     <message>
         <source>aReport OpenOfficeExecutable set to %1</source>
-        <translation>aReport: Исполняемый файл OpenOffice определен как %1</translation>
+        <translation>aReport: Виконуємий файл OpenOffice визначений як %1</translation>
     </message>
     <message>
         <source>aReport working dir = %1</source>
-        <translation>aReport: Рабочая папка файловой системы = %1</translation>
+        <translation>aReport: Робоча папка файлової системи = %1</translation>
     </message>
     <message>
         <source>aReport name for template = %1</source>
-        <translation type="obsolete">aReport: Имя шаблона = %1</translation>
+        <translation type="obsolete">aReport: Ім&apos;я шаблону = %1</translation>
     </message>
     <message>
         <source>aReport: name for template = %1</source>
-        <translation>aReport: Имя для шаблона = %1</translation>
+        <translation>aReport: Ім&apos;я для шаблону = %1</translation>
     </message>
     <message>
         <source>aReport: can&apos;t save report to file &apos;%1&apos;</source>
-        <translation>aReport: Не удалось сохранить отчет в файл &apos;%1&apos;</translation>
+        <translation>aReport: Не вдалось зберегти звіт у файлі &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Warning: BinReloc failed to initialize (error code %1)
 </source>
-        <translation>Предупреждение: Ошибка инициализации BinReloc (код ошибки &apos;%1&apos;)</translation>
+        <translation>Попередження: Помилка ініціалізації BinReloc (код помилки &apos;%1&apos;)</translation>
     </message>
     <message>
         <source>Will fallback to hardcoded default path.
 </source>
-        <translation>Будет использован путь, заданный в коде в качестве пути по умолчанию.
+        <translation>Буде використаний шлях, завданий у коді в якості шляху за замовчуванням.
 </translation>
     </message>
     <message>
         <source>aReport::show BinReloc path to bin dir is %1.
 </source>
-        <translation>BinReloc обнаружил путь  &apos;%1&apos; к каталогу bin.
+        <translation>BinReloc виявив шлях &apos;%1&apos; до каталогу bin.
 </translation>
     </message>
     <message>
         <source>aReport::path2workdir BinReloc path to data dir is %1.
 </source>
-        <translation>aReport::path2workdir BinReloc обнаружил путь &apos;%1&apos; к каталогу share.</translation>
+        <translation>aReport::path2workdir BinReloc виявив шлях &apos;%1&apos; до каталогу share.</translation>
     </message>
 </context>
 <context>
     <name>aReportBrowser</name>
     <message>
         <source>Print</source>
-        <translation>Печать</translation>
+        <translation>Друк</translation>
     </message>
     <message>
         <source>Print report</source>
-        <translation>Печать отчета</translation>
+        <translation>Друк звіту</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Сохранить как</translation>
+        <translation>Зберегти як</translation>
     </message>
     <message>
         <source>Save report to file</source>
-        <translation>Сохранить отчет в файл</translation>
+        <translation>Зберегти звіт у файлі</translation>
     </message>
     <message>
         <source>Web pages (*.html)</source>
-        <translation>Веб страницы (*.html)</translation>
+        <translation>Веб сторінки (*.html)</translation>
     </message>
 </context>
 <context>
     <name>aTemplate</name>
     <message>
         <source>aTemplate save file %1</source>
-        <translation type="obsolete">aTemplate: Запись файла %1</translation>
+        <translation type="obsolete">aTemplate: Запис файлу %1</translation>
     </message>
     <message>
         <source>aTemplate: report template &apos;%1&apos; has been read</source>
-        <translation>aTemplate: Прочитан шаблон &apos;%1&apos; отчета </translation>
+        <translation>aTemplate: Прочитаний шаблон &apos;%1&apos; звіту</translation>
     </message>
     <message>
         <source>aTemplate: can&apos;t read report template &apos;%1&apos;</source>
-        <translation>aTemplate: Не могу прочитать шаблон &apos;%1&apos; отчета</translation>
+        <translation>aTemplate: Не можу прочитати шаблон &apos;%1&apos; звіту</translation>
     </message>
     <message>
         <source>aTemplate: result have been saved to &apos;%1&apos; file</source>
-        <translation>aTemplate: Результат записан в файл &apos;%1&apos;</translation>
+        <translation>aTemplate: Результат записаний у файлі &apos;%1&apos;</translation>
     </message>
     <message>
         <source>aTemplate: can&apos;t open file &apos;%1&apos; for writing: &apos;%2&apos;</source>
-        <translation>aTemplate: Не могу открыть файл &apos;%1&apos; на запись: &apos;%2&apos;</translation>
+        <translation>aTemplate: Не можу відкрити файл &apos;%1&apos; на запис: &apos;%2&apos;</translation>
     </message>
     <message>
         <source>aTemplate: template&apos;s dir has been set to &apos;%1&apos;</source>
-        <translation>aTemplate: Путь к каталогу шаблонов задан как &apos;%1&apos;</translation>
+        <translation>aTemplate: Шлях до каталогу шаблонів заданий як &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1593,87 +1594,87 @@
     <message>
         <source>Error! Can&apos;t find widget by name==`%s`
 </source>
-        <translation type="obsolete">Ошибка! Не найден виджет с именем `%s&apos;</translation>
+        <translation type="obsolete">Помилка! Не знайдений віджет з назвою `%s&apos;</translation>
     </message>
     <message>
         <source>aForm::SetValue() Error! Can&apos;t find widget by name==`%s`
 </source>
-        <translation type="obsolete">aForm::SetValue() Ошибка! Невозможно найти виджет с именем `%s`</translation>
+        <translation type="obsolete">aForm::SetValue() Помилка! Неможливо знайти віджет з назвою `%s`</translation>
     </message>
     <message>
         <source>aWidget init widget %1 form mode %2</source>
-        <translation>aWidget: Инициализация виджета %1: режим формы %2</translation>
+        <translation>aWidget: Ініціалізація віджету %1: режим форми %2</translation>
     </message>
     <message>
         <source>aWidget init: invalid database</source>
-        <translation>aWidget: Инициализация: Не верно задана или недоступна БД</translation>
+        <translation>aWidget: Ініціалізація: Не вірно задана або недоступна БД</translation>
     </message>
     <message>
         <source>aWidget init: invalid meta object</source>
-        <translation>aWidget: Инициализация: Неправильный объект метаданных</translation>
+        <translation>aWidget: Ініціалізація: Неправильний об&apos;єкт метаданих</translation>
     </message>
     <message>
         <source>aWidget init: connect signals wDBTable</source>
-        <translation>aWidget: Инициализация: Соединяем сигналы wDBTable</translation>
+        <translation>aWidget: Ініціалізація: Поєднуємо сигнали wDBTable</translation>
     </message>
     <message>
         <source>aWidget invalid data source object</source>
-        <translation>aWidget: Неверный объект источника данных</translation>
+        <translation>aWidget: Невірний об&apos;єкт джерела даних</translation>
     </message>
     <message>
         <source>aWidget widgetEditor: invalid metadata object</source>
-        <translation>aWidget: widgetEditor: Неправильный объект метаданных</translation>
+        <translation>aWidget: widgetEditor: Невірний об&apos;єкт метаданих</translation>
     </message>
     <message>
         <source>aWidget table: invalid data source object</source>
-        <translation>aWidget: table: Неверный объект источника данных</translation>
+        <translation>aWidget: table: Невірний об&apos;єкт джерела даних</translation>
     </message>
     <message>
         <source>aWidget new: invalid data source object</source>
-        <translation>aWidget: new: Неверный объект источника данных</translation>
+        <translation>aWidget: new: Невірний об&apos;єкт джерел даних</translation>
     </message>
     <message>
         <source>aWidget select: invalid data source object</source>
-        <translation>aWidget: select: Неверный объект источника данных</translation>
+        <translation>aWidget: select: Невірний об&apos;єкт джерела даних</translation>
     </message>
     <message>
         <source>aWidget update: invalid data source object</source>
-        <translation>aWidget: update: Неверный объект источника данных</translation>
+        <translation>aWidget: update: Невірний об&apos;єкт джерела даних</translation>
     </message>
     <message>
         <source>aWidget value not fount widget with name %1</source>
-        <translation>aWidget: Не найдено значения виджета с именем %1</translation>
+        <translation>aWidget: Не знайдено значення віджету з назвою %1</translation>
     </message>
     <message>
         <source>aWidget set value: not fount widget with name %1</source>
-        <translation>aWidget: Установка значения: Не найден виджет с именем %1</translation>
+        <translation>aWidget: Встановлення значення: Не знайдений віджет з назвою %1</translation>
     </message>
     <message>
         <source>aWidget doc Id: invalid data source object</source>
-        <translation>aWidget: Идентификатор документа  Id: Неверный объект источника данных</translation>
+        <translation>aWidget: Ідентифікатор документу Id: Невірний об&apos;єкт джерела даних</translation>
     </message>
 </context>
 <context>
     <name>dEditRC</name>
     <message>
         <source>Resource file</source>
-        <translation>Файл ресурса</translation>
+        <translation>Файл ресурсу</translation>
     </message>
     <message>
         <source>Data base header</source>
-        <translation>Заголовок базы данных</translation>
+        <translation>Заголовок бази даних</translation>
     </message>
     <message>
         <source>Data base name</source>
-        <translation>Имя базы данных</translation>
+        <translation>Ім&apos;я бази даних</translation>
     </message>
     <message>
         <source>Data base server type</source>
-        <translation>Тип сервера базы данных</translation>
+        <translation>Тип серверу бази даних</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестный</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <source>mysql</source>
@@ -1685,27 +1686,27 @@
     </message>
     <message>
         <source>Data base server address</source>
-        <translation>Адрес сервера баз данных</translation>
+        <translation>Адреса сервера бази даних</translation>
     </message>
     <message>
         <source>Data base server port</source>
-        <translation type="obsolete">Порт сервера база данных</translation>
+        <translation type="obsolete">Порт сервера бази даних</translation>
     </message>
     <message>
         <source>Data base server user</source>
-        <translation>Пользователь сервера баз данных</translation>
+        <translation>Користувач сервера бази даних</translation>
     </message>
     <message>
         <source>Data base server password</source>
-        <translation type="obsolete">Пароль сервера баз данных</translation>
+        <translation type="obsolete">Пароль сервера бази даних</translation>
     </message>
     <message>
         <source>Work directory</source>
-        <translation>Рабочий каталог</translation>
+        <translation>Робоча папка</translation>
     </message>
     <message>
         <source>Resource file name</source>
-        <translation>Файл ресурса</translation>
+        <translation>Файл ресурсу</translation>
     </message>
     <message>
         <source>...</source>
@@ -1713,35 +1714,35 @@
     </message>
     <message>
         <source>Configuration file name</source>
-        <translation>Имя файла метаданных</translation>
+        <translation>Ім&apos;я файлу метаданих</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Ок</translation>
+        <translation>Так</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation>Відміна</translation>
     </message>
     <message>
         <source>internal</source>
-        <translation>встроенный</translation>
+        <translation>вбудований</translation>
     </message>
     <message>
         <source>ananas config resource (*.rc)</source>
-        <translation>Файл ресурсов Ананаса (*.rc)</translation>
+        <translation>Файл ресурсів Ананаса (*.rc)</translation>
     </message>
     <message>
         <source>ananas config file (*.cfg)</source>
-        <translation>Файл бизнес-схемы Ананаса (*.cfg)</translation>
+        <translation>Файл конфігурації бізнес-схеми (*.cfg)</translation>
     </message>
     <message>
         <source>Business Sheme</source>
-        <translation>Бизнес-схема</translation>
+        <translation>Бізнес-схема</translation>
     </message>
     <message>
         <source>DataBase</source>
-        <translation>База Данных</translation>
+        <translation>База даних</translation>
     </message>
     <message>
         <source>/ port</source>
@@ -1749,11 +1750,11 @@
     </message>
     <message>
         <source>Select</source>
-        <translation>Выбрать</translation>
+        <translation>Обрати</translation>
     </message>
     <message>
         <source>Test connection</source>
-        <translation>Проверить соединение</translation>
+        <translation>Тест з&apos;єднання</translation>
     </message>
     <message>
         <source>/ pass</source>
@@ -1761,150 +1762,150 @@
     </message>
     <message>
         <source>Resource file:</source>
-        <translation>Файл ресурса:</translation>
+        <translation>Файл ресурсу:</translation>
     </message>
     <message>
         <source>ananas working directory</source>
-        <translation>Рабочий каталог Ананас</translation>
+        <translation>Робоча папка Ананас</translation>
     </message>
     <message>
         <source>- Enter HostName.
 </source>
-        <translation>- Введите Имя Сервера.
+        <translation>- Уведіть Ім&apos;я серверу або IP-адресу.
 </translation>
     </message>
     <message>
         <source>- Enter DBName.
 </source>
-        <translation>- Введите имя Базы Данных.
+        <translation>- Уведіть ім&apos;я Бази даних.
 </translation>
     </message>
     <message>
         <source>- Enter DBUserName.
 </source>
-        <translation>- Введите Имя пользователя БД.
+        <translation>- Уведіть Ім&apos;я користувача БД.
 </translation>
     </message>
     <message>
         <source>- Enter DBPassword.
 </source>
-        <translation>- Введите  пароль к БД.
+        <translation>- Уведіть пароль до БД.
 </translation>
     </message>
     <message>
         <source>Test imposible.
 No all data collected...
 </source>
-        <translation>Тест невозможен. Не все данные собраны...
+        <translation>Тест неможливий. Не всі дані зібрані...
 </translation>
     </message>
     <message>
         <source>Unable to converse with a database.
 Reason:
  %1</source>
-        <translation>Не могу соединиться с БД.
+        <translation>Не можу з&apos;єднатися з БД.
 Причина:
 %1</translation>
     </message>
     <message>
         <source>User &lt;b&gt;%1&lt;/b&gt; granted to use base &lt;b&gt;%2&lt;/b&gt;.</source>
-        <translation>Пользователь &lt;b&gt;%1&lt;/b&gt; имеет права на базу &lt;b&gt;%2&lt;/b&gt;.</translation>
+        <translation>Користувач &lt;b&gt;%1&lt;/b&gt; має доступ до бази &lt;b&gt;%2&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Available DataBases</source>
-        <translation>Доступные Базы Данных</translation>
+        <translation>Наявні Бази Даних</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Создать</translation>
+        <translation>Створити</translation>
     </message>
     <message>
         <source>Resource file: </source>
-        <translation>Файл ресурса: </translation>
+        <translation>Файл ресурсу:</translation>
     </message>
     <message>
         <source>Enter a root password:</source>
-        <translation>Введите пароль пользователя root:</translation>
+        <translation>Уведіть пароль користувача root:</translation>
     </message>
     <message>
         <source>Enter a &lt;b&gt;root&lt;/b&gt; password:</source>
-        <translation>Введите пароль пользователя &lt;b&gt;root&lt;/b&gt;:</translation>
+        <translation>Уведіть пароль користувача &lt;b&gt;root&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Enter a &lt;b&gt;postgres&lt;/b&gt; password:</source>
-        <translation>Введите пароль пользователя &lt;b&gt;postgres&lt;/b&gt;:</translation>
+        <translation>Уведіть пароль користувача &lt;b&gt;postgres&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Root access required</source>
-        <translation>Требуетутся права суперпользователя</translation>
+        <translation>Потрібні права суперкористувача</translation>
     </message>
     <message>
         <source>Add new DataBase:</source>
-        <translation>Добавление новой базы данных:</translation>
+        <translation>Додавання нової бази даних:</translation>
     </message>
     <message>
         <source>Enter a &lt;b&gt;new&lt;/b&gt; database name:</source>
-        <translation>Введите имя новой базы данных:</translation>
+        <translation>Уведіть ім&apos;я нової бази даних:</translation>
     </message>
     <message>
         <source>Name &lt;b&gt;%1&lt;/b&gt; alredy exist.
 Enter another name:</source>
-        <translation>Имя &lt;b&gt;%1&lt;/b&gt; уже существует.
-Введите другое имя:</translation>
+        <translation>Ім&apos;я &lt;b&gt;%1&lt;/b&gt; вже існує.
+Уведіть інше ім&apos;я:</translation>
     </message>
     <message>
         <source>Add new User:</source>
-        <translation>Добавление нового пользователя:</translation>
+        <translation>Додавання нового користувача:</translation>
     </message>
     <message>
         <source>Enter a &lt;b&gt;new&lt;/b&gt; user name:</source>
-        <translation>Введите &lt;b&gt;новое&lt;/b&gt; имя пользователя:</translation>
+        <translation>Уведіть &lt;b&gt;нове&lt;/b&gt; ім&apos;я користувача:</translation>
     </message>
     <message>
         <source>Set password:</source>
-        <translation>Установка пароля:</translation>
+        <translation>Встановлення паролю:</translation>
     </message>
     <message>
         <source>Enter a password for this user:</source>
-        <translation>Введите пароль для этого пользователя:</translation>
+        <translation>Уведіть пароль для цього користувача:</translation>
     </message>
     <message>
         <source>Available Users</source>
-        <translation>Существующие пользователи</translation>
+        <translation>Існуючі користувачі</translation>
     </message>
 </context>
 <context>
     <name>dImportDB</name>
     <message>
         <source>Resource file</source>
-        <translation>Файл ресурса</translation>
+        <translation>Файл ресурсу</translation>
     </message>
     <message>
         <source>archive file</source>
-        <translation>Файл резервной копии</translation>
+        <translation>Файл резервної копії</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Ок</translation>
+        <translation>Так</translation>
     </message>
     <message>
         <source>any files (*)</source>
-        <translation>Все файлы (*)</translation>
+        <translation>Всі файли (*)</translation>
     </message>
     <message>
         <source>ananas business schema archiff file (*.bsa)</source>
-        <translation>Файлы архивов бизнес-схем Ананаса (*.bsa)</translation>
+        <translation>Файл архиву бізнес-схеми Ананаса (*.bsa)</translation>
     </message>
 </context>
 <context>
     <name>dLogin</name>
     <message>
         <source>Ananas: Login</source>
-        <translation>Ананас: Авторизация</translation>
+        <translation>Ананас: Авторизація</translation>
     </message>
     <message>
         <source>Login name</source>
-        <translation>Регистрационное имя</translation>
+        <translation>Реєстраційне ім&apos;я</translation>
     </message>
     <message>
         <source>Password</source>
@@ -1912,7 +1913,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>Відміна</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -1920,7 +1921,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>O&amp;K</source>
-        <translation>O&amp;K</translation>
+        <translation>Так</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -1931,27 +1932,27 @@ Enter another name:</source>
     <name>dSelectDB</name>
     <message>
         <source>Information base</source>
-        <translation>Список бизнес-схем</translation>
+        <translation>Перелік бізнес-схем</translation>
     </message>
     <message>
         <source>Select data base</source>
-        <translation>Выбрать бизнес-схему</translation>
+        <translation>Оберіть бізнес-схему</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>Ім&apos;я</translation>
     </message>
     <message>
         <source>Resource file</source>
-        <translation>Файл ресурса</translation>
+        <translation>Файл ресурсу</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>Так</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="obsolete">&amp;Новый</translation>
+        <translation type="obsolete">Новий</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -1959,7 +1960,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="obsolete">&amp;Группа</translation>
+        <translation type="obsolete">Група</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -1967,7 +1968,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -1975,7 +1976,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Изменить</translation>
+        <translation>Змінити</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -1983,7 +1984,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>Відміна</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -1991,7 +1992,7 @@ Enter another name:</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Помощь</translation>
+        <translation>Допомога</translation>
     </message>
     <message>
         <source>Alt+H</source>
@@ -1999,144 +2000,144 @@ Enter another name:</source>
     </message>
     <message>
         <source>New group</source>
-        <translation>Новая группа</translation>
+        <translation>Нова група</translation>
     </message>
     <message>
         <source>New item</source>
-        <translation type="obsolete">Новая схема</translation>
+        <translation type="obsolete">Нова схема</translation>
     </message>
     <message>
         <source>save</source>
-        <translation>Сохранить</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <source>Delete item?</source>
-        <translation>Удалить элемент?</translation>
+        <translation>Видалити елемент?</translation>
     </message>
     <message>
         <source>confirm delete</source>
-        <translation>Подтверждение удаления</translation>
+        <translation>Підтвердження видалення</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>В&amp;ыход</translation>
+        <translation>Вихід</translation>
     </message>
     <message>
         <source>New &amp;group</source>
-        <translation>Новая &amp;группа</translation>
+        <translation>Нова група</translation>
     </message>
     <message>
         <source>&amp;New item</source>
-        <translation type="obsolete">&amp;Новая бизнес схема</translation>
+        <translation type="obsolete">Нова бізнес схема</translation>
     </message>
     <message>
         <source>Edi&amp;t</source>
-        <translation>&amp;Редактировать</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>Восстановить &amp;из резервной копии</translation>
+        <translation>Відновити із резервної копії</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>С&amp;оздать резервную копию</translation>
+        <translation>Створити резервну копію</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation>Резервная копия</translation>
+        <translation>Резервна копія</translation>
     </message>
     <message>
         <source>Select item</source>
-        <translation>Выберите элемент</translation>
+        <translation>Оберіть елемент</translation>
     </message>
     <message>
         <source>Please, select item for export</source>
-        <translation>Выберите элемент для создания резервной копии</translation>
+        <translation>Оберіть елемент для створення резервної копії</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="obsolete">&amp;Программа</translation>
+        <translation type="obsolete">Схема</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="obsolete">&amp;Сервис</translation>
+        <translation type="obsolete">Сервіс</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation>Программа</translation>
+        <translation>Програма</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Действия</translation>
+        <translation>Дії</translation>
     </message>
     <message>
         <source>Service</source>
-        <translation>Сервис</translation>
+        <translation>Сервіс</translation>
     </message>
     <message>
         <source>dSelectDB local settings not found</source>
-        <translation>dSelectDB: Пользовательские (локальные) настройки не найдены</translation>
+        <translation>dSelectDB: Користувацькі (локальні) налаштування не знайдені</translation>
     </message>
     <message>
         <source>dSelectDB read settings for group with name %1</source>
-        <translation>dSelectDB: Чтение настроек для группы с именем %1</translation>
+        <translation>dSelectDB: Читання налаштувань для групи з назвою %1</translation>
     </message>
     <message>
         <source>dSelectDB save settings</source>
-        <translation>dSelectDB: Сохранение настроек</translation>
+        <translation>dSelectDB: Збереження налаштувань</translation>
     </message>
     <message>
         <source>save settings local?</source>
-        <translation>Сохранить настройки локально?</translation>
+        <translation>Зберегти налаштуваня локально?</translation>
     </message>
     <message>
         <source>dSelectDB business schema import</source>
-        <translation>dSelectDB Импорт бизнес-схемы</translation>
+        <translation>dSelectDB Імпорт бізнес-схеми</translation>
     </message>
     <message>
         <source>dSelectDB restore: %1</source>
-        <translation>dSelectDB: Восстанавливаем: %1</translation>
+        <translation>dSelectDB: Відновлюємо: %1</translation>
     </message>
     <message>
         <source>Any files (*)</source>
-        <translation type="obsolete">Все файлы (*)</translation>
+        <translation type="obsolete">Усі файли (*)</translation>
     </message>
     <message>
         <source>dSelectDB backup ok</source>
-        <translation>dSelectDB: Успешно создана резервная копия</translation>
+        <translation>dSelectDB: Успішно створена резервна копія</translation>
     </message>
     <message>
         <source>dSelectDB backup: %1</source>
-        <translation>dSelectDB Резервная копия: %1</translation>
+        <translation>dSelectDB Резервна копія: %1</translation>
     </message>
     <message>
         <source>New shema</source>
-        <translation>Новая бизнес-схема</translation>
+        <translation>Нова бізнес-схема</translation>
     </message>
     <message>
         <source>&amp;New shema</source>
-        <translation>Новая бизнес-&amp;схема</translation>
+        <translation>Нова бізнес-схема</translation>
     </message>
     <message>
         <source>Warning: BinReloc failed to initialize (error code %1)
 </source>
-        <translation>Предупреждение: Ошибка инициализации BinReloc (код ошибки &apos;%1&apos;)</translation>
+        <translation>Попередження: Помилка ініціалізації BinReloc (код помилки &apos;%1&apos;)</translation>
     </message>
     <message>
         <source>Will fallback to hardcoded default path.
 </source>
-        <translation>Будет использован путь, заданный в коде в качестве пути по умолчанию.
+        <translation>Буде використаний шлях, завданий у коді в якості шляху за замовчуванням.
 </translation>
     </message>
     <message>
         <source>dSelectDB::init  BinReloc path to etc dir is &apos;%1&apos;
 </source>
-        <translation>dSelectDB::init BinReloc обнаружил путь &apos;%1&apos; к каталогу etc</translation>
+        <translation>dSelectDB::init BinReloc виявив шлях &apos;%1&apos; до каталогу etc</translation>
     </message>
     <message>
         <source>dSelectDB::saveRC  BinReloc path to etc dir is &apos;%1&apos;
 </source>
-        <translation>dSelectDB::saveRC BinReloc обнаружил путь &apos;%1&apos; к каталогу etc</translation>
+        <translation>dSelectDB::saveRC BinReloc виявив шлях &apos;%1&apos; до каталогу etc</translation>
     </message>
     <message>
         <source>-==-</source>
@@ -2144,11 +2145,11 @@ Enter another name:</source>
     </message>
     <message>
         <source>New...</source>
-        <translation>Новая...</translation>
+        <translation>Нова...</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Группа</translation>
+        <translation>Група</translation>
     </message>
     <message>
         <source>Shema</source>

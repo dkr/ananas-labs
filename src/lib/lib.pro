@@ -139,6 +139,7 @@ win32 {
 
 TRANSLATIONS = \
     ../../translations/ananas-lib-en.ts \
+    ../../translations/ananas-lib-ua.ts \
     ../../translations/ananas-lib-ru.ts
 
 

@@ -79,6 +79,7 @@ win32:DEFINES   += ANANAS_NO_DLL
 
 TRANSLATIONS = \
     ../../translations/ananas-plugins-en.ts \
+    ../../translations/ananas-plugins-ua.ts \
     ../../translations/ananas-plugins-ru.ts 
 	
 FORMS	= edbtable.ui \
